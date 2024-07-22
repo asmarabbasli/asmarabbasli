@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E03AQFj-5xY9dE6ZA/profile-displayphoto-shrink_200_200/0/1720378409178?e=1727308800&v=beta&t=KKjH64Hchih03KEiSqxp0MiIc4rFZ6Ff-qqc4hxiE7s)
-
 <h1 align="center">Hi 👋, I'm AsmarAbbasli</h1>
 <h3 align="center">A passionate IT student in this field.</h3>
 
@@ -15,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asmar abbasli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmar abbasli" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/asmar abbasli](https://www.linkedin.com/in/asmarabbas/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmar abbasli" height="30" width="40" /></a>
+<a href="[https://fb.com/əsmər abbaslı](https://www.facebook.com/profile.php?id=61556599183404)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="əsmər abbaslı" height="30" width="40" /></a>
 <a href="https://instagram.com/abbasliasmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abbasliasmar" height="30" width="40" /></a>
 </p>
 
