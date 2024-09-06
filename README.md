@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmarabbasli&label=Profile%20views&color=0e75b6&style=flat" alt="asmarabbasli" /> </p>
 
-- 🔭 I’m currently working on **Mobil Programming**
+- 🔭 I’m currently working on **Mobil and Web Programming a**
 
 - 🌱 I’m currently learning **Kotlin,Java**
 
