@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm AsmarAbbasli</h1>
-<h3 align="center">A passionate IT student in this field.</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmarabbasli&label=Profile%20views&color=0e75b6&style=flat" alt="asmarabbasli" /> </p>
 
 - 🔭 I’m currently working on **Mobil and Web Programming **
-
-- 🌱 I’m currently learning **Kotlin,Java**
 
 - 💬 Ask me about **Python**
 
